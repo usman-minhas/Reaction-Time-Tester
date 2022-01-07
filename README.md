@@ -1,5 +1,5 @@
 # Reaction-Time-Tester
-Coded a reaction time tester in C using the STM32F microcontroller.
+Coded a reaction time tester in C using the STM32F microcontroller. Used **loops, functions, interrupts, external interrupts, and extern EEPROM**.
 
 ## Logic
 Upon reset the display shows the highest score set and flashes the LEDs at 1 Hz.
